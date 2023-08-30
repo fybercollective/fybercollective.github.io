@@ -21,10 +21,10 @@
 title: Fyber Collective
 email: admin@fybercollective.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Collective of artists, designers and creative technologists working with fibers and based in San Francisco.
+  Artists, designers, and creative technologists working with fibers.
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: fybercollective.github.io
-url: https://fybercollective.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: fybercollective.net
+url: https://fybercollective.net # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fybercollective
 
 # Build settings
