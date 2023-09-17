@@ -1,34 +1,31 @@
 ---
 layout: post
-title:  "LED Frame"
+title:  "Tenses Quilt"
 date:   2023-08-28 11:58:13 -0700
 image: led.jpeg
-categories: quilting ai
+categories: quilting AI electronics
 ---
+
+Produced by Dr. Emeline Brulé & Michelle Venetucci. Materials include cotton fabric, cotton batting, polyester thread. Sewn using a domestic sewing machine and programmable Singer Futura Quartet embroidery machine. Designed and produced using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, ChatGPT.
 
 <img src="/assets/images/led.jpeg" width="100%">
 
+For this project, we used Stable Diffusion to generate images of letters of the alphabet, which were then converted into a vector that was sent to a programmable embroidery machine. 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<img src="/assets/images/tenses1.jpeg" width="32%">
+<img src="/assets/images/tensesG.jpeg" width="32%">
+<img src="/assets/images/tenseso.jpeg" width="32%">
 
-Jekyll requires blog post files to be named according to the following format:
+We’re using thread and fabric in matching colors as a callback to an embroidery practice called whitework that gradually disappeared over the 20th century, where white embroidery was used on white fabric. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+<img src="/assets/images/tenses2.jpeg" width="50%">
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We used ChatGPT to come up with a color scheme for the quilt, asking it to suggest colors and a layout inspired by San Francisco. It gave us some colors associated with mechanical components of the city, like the orange of the bridge and cable car red, alongside natural components, like foggy gray and ocean blue.
 
-Jekyll also offers powerful support for code snippets:
+Quilting/textile work by Emeline & Michelle. Quilt backing/frame/LEDs/code by Matt, Julian, Ellie, Brennan, Anthea, Emily, TJ. Woodwork/frame by Ken.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Designed and produced using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, ChatGPT
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<img src="/assets/images/tenses5.jpeg" width="32%">
+<img src="/assets/images/alllights.png" width="32%">
