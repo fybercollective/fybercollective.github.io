@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Tenses"
+date:   2023-08-28 11:58:13 -0700
+image: led.jpeg
+categories: quilting AI electronics
+---
+
+Letters have long been part of everyday and professional embroidery practices. They mark household linen and exhort in pieces displayed for religious, political or cultural aims. Samplers through which schoolgirls learned embroidery often include alphabets and excerpts from the scriptures, along with embroidered signatures and dates. Letters are core to embroidery history - and a [https://theconversation.com/if-ai-image-generators-are-so-smart-why-do-they-struggle-to-write-and-count-208485](well-known difficulty for generative language-based AI models).
+
+Tenses explores the use of generative language-based AI models in fiber arts and how fiber works may reveal their limits. It is inspired by a proliferation of images of impossible pieces of fashion and textile crafts reshaping these communities, and inscribed in a long history of generative design in textile.
+
+Where generative design traditionally calls for explicit programming, usually to create abstract patterns, these new models use natural language. 
+
+Their results are temporary, illustrating the current state of these writing machines. Tenses is an embroidered alphabet quilt of letterforms developed with a text-to-image model, stable diffusion. It embraces the oddities of characters as images, currently lacking the structure afforded by the stroke of writing instruments. Its color scheme was developed in interaction with ChatGPT, a large language model, as a means to explore the tropes embedded and reinforced by these approaches to language. This piece is from somewhere–San Francisco–a city conveying a strong imaginary landscape here synthesized by a color scheme linked to natural (sea, fog, sunset) and mechanical (gate, cable cars) elements.
+
+Produced by Dr. Emeline Brulé & Michelle Venetucci. Materials include cotton fabric, cotton batting, polyester thread. Sewn using a domestic sewing machine and programmable Singer Futura Quartet embroidery machine. Designed and produced using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, ChatGPT.
+
+<img src="/assets/images/led.jpeg" width="100%">
+
+For this project, we used Stable Diffusion to generate images of letters of the alphabet, which were then converted into a vector that was sent to a programmable embroidery machine. 
+
+<img src="/assets/images/tenses1.jpeg" width="32%">
+<img src="/assets/images/tensesG.jpeg" width="32%">
+<img src="/assets/images/tenseso.jpeg" width="32%">
+
+We’re using thread and fabric in matching colors as a callback to an embroidery practice called whitework that gradually disappeared over the 20th century, where white embroidery was used on white fabric. 
+
+<img src="/assets/images/tenses2.jpeg" width="50%">
+
+We used ChatGPT to come up with a color scheme for the quilt, asking it to suggest colors and a layout inspired by San Francisco. It gave us some colors associated with mechanical components of the city, like the orange of the bridge and cable car red, alongside natural components, like foggy gray and ocean blue.
+
+Quilting/textile work by Emeline & Michelle. Quilt backing/frame/LEDs/code by Matt, Julian, Ellie, Brennan, Anthea, Emily, TJ. Woodwork/frame by Ken.
+
+Designed and produced using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, ChatGPT
+
+
+<img src="/assets/images/tenses5.jpeg" width="32%">
+<img src="/assets/images/alllights.png" width="32%">
